@@ -1,6 +1,12 @@
-# Sensor Unit
+## Sensor Unit
 
 ![function_graphic](/eagle/images/esp-module-su.png)
+
+## How to use
+
+```
+git clone --recursive https://github.com/LaCocoRoco/esp-module-su.git
+```
 
 # Documentation
 
