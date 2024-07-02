@@ -1,13 +1,21 @@
-## Sensor Unit
+## ESP Module - Sensor Unit
 
-![function_graphic](/eagle/images/esp-module-su.png)
+ToDo
 
-## How to use
+## Guide
 
 ```
 git clone --recursive https://github.com/LaCocoRoco/esp-module-su.git
 ```
 
-# Documentation
+## Reference
 
-Interactive [BOM Viewser](https://htmlpreview.github.io/?https://github.com/LaCocoRoco/esp-module-su/blob/main/eagle/bom/esp-module-su.html)
+- Interactive [BOM Viewer](https://htmlpreview.github.io/?https://github.com/LaCocoRoco/esp-module-su/blob/main/eagle/bom/esp-module-su.html)
+
+## Preview
+
+![function_graphic](/images/esp-module-su-pcb.png)
+
+![function_graphic](/images/esp-module-su.png)
+
+![function_graphic](/images/esp-module-su-photo.png)
