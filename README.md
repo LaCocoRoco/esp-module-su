@@ -1,8 +1,6 @@
-## ESP Module - Sensor Unit
+# $\color{red}{\textsf{In Development}}$
 
-ToDo
-
-## Guide
+## Quick Guide
 
 ```
 git clone --recursive https://github.com/LaCocoRoco/esp-module-su.git
